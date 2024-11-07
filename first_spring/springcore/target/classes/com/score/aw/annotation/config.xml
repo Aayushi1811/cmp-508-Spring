@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+
+<context:annotation-config></context:annotation-config>
+<bean class="com.score.aw.annotation.Answer" name="a1">
+	<property name="ans1" value="java is platform independent"></property>
+	<property name="ans2" value="java is robust language"></property>
+	<property name="ans3" value="spring is a framework of java enterprise"></property>
+</bean>
+
+<bean class="com.score.aw.annotation.Answer" name="a2">
+	<property name="ans1" value="answer1"></property>
+	<property name="ans2" value="java is robust language"></property>
+	<property name="ans3" value="spring is a framework of java enterprise"></property>
+</bean>
+
+
+<bean class="com.score.aw.annotation.Question" name="q1" >
+	<property name="que1" value="What is java?"></property>
+	
+</bean>
+</beans>

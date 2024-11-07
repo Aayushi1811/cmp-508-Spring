@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;com.firstsp.App.main().context&apos; in &apos;com.firstsp.App.main()&apos; to field&#x0D;&#x0A;- Original project: &apos;first_spring&apos;&#x0D;&#x0A;- Original element: &apos;com.firstsp.App.main().context&apos;&#x0D;&#x0A;- Field name: &apos;context&apos;&#x0D;&#x0A;- Initialize field in method&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;context&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src\/main\/java&lt;com.firstsp{App.java" name="context" selection="340 56" stamp="1723195911525" static="true" version="1.0" visibility="2"/>
+</session>

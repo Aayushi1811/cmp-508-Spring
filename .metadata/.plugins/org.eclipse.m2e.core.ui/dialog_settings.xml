@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="internal" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.preferences.RemoteArchetypeCatalogDialog">
+		<list key="catalogUrl">
+			<item value="https://repo.maven.apache.org/maven2/archetype-catalog.xml"/>
+			<item value="https://repo1.maven.org/maven2/archetype-catalog.xml"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\AAYUSH\eclipse-workspace"/>
+			<item value="C:\Users\AAYUSH\eclipse-workspace\springJdbc2\pom.xml"/>
+			<item value="C:\Users\AAYUSH\eclipse-workspace\springJdbc2\src\main\java\com\spring\jdbc\dao\EmpDaoImpl.java"/>
+			<item value="C:\Users\AAYUSH\Downloads\eclipse-workspace\eclipse-workspace"/>
+			<item value="C:\Users\AAYUSH\eclipse-workspace\com.practice\src\main\java\com\practice"/>
+			<item value="C:\Users\AAYUSH\Downloads\eclipse-workspace\eclipse-workspace\springcore_final\src\main\java\com\score\autowire\Answer.java"/>
+			<item value="C:\Users\AAYUSH\eclipse-workspace\first_spring\src\main\java\com\firstsp\App.java"/>
+			<item value="C:\Users\AAYUSH\eclipse-workspace\score1\src\main\java\com\score\score1\Employee.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.spring.mvc.mvc"/>
+			<item value="com.spring.mvc.mvc1"/>
+			<item value="com.spring.mvc"/>
+			<item value="com.spring.jdbc"/>
+			<item value="com.midsem"/>
+			<item value="midsem"/>
+		</list>
+		<list key="groupId">
+			<item value="com.spring.mvc"/>
+			<item value="com.spring.jdbc"/>
+			<item value="midsem"/>
+		</list>
+		<list key="artifactId">
+			<item value="mvc"/>
+			<item value="mvc1"/>
+			<item value="springmvc1"/>
+			<item value="springmvc"/>
+			<item value="springJdbc2"/>
+			<item value="spring.jdbc"/>
+			<item value="midsem"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
